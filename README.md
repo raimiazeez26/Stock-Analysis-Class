@@ -1,5 +1,5 @@
 # Stock-Analysis-Class
-# Stock Analysis OOP  ### A stock analysis class to analyze different metrics of a stock:
+### A stock analysis class to analyze different metrics of a stock:
 
 * Get Stock data from yfinance
 * Log returns of stocks 
